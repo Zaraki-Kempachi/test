@@ -1,0 +1,6 @@
+﻿  praktika.cpp
+c:\users\colds\source\repos\praktika\praktika.cpp(17): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\colds\source\repos\praktika\praktika.cpp(17): note: заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+  c:\users\colds\source\repos\praktika\praktika.cpp(17): note: отсутствующий вариативный аргумент "3" требуется для строки форматирования "%c"
+  c:\users\colds\source\repos\praktika\praktika.cpp(17): note: этот аргумент используется в качестве размера буфера
+  praktika.vcxproj -> C:\Users\colds\source\repos\praktika\Debug\praktika.exe
